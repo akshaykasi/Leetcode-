@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshaykasi/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/akshaykasi/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 ## Binary Search
 |  |
@@ -16,5 +17,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshaykasi/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/akshaykasi/Leetcode-/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
